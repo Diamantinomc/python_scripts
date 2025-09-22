@@ -15,11 +15,17 @@ Este proyecto es un **script de automatización** en Python que organiza archivo
 
 Carpeta_Organizada/
 ├── Documentos/
+
 │ ├── 2024/
+
 │ ├── informe.pdf
+
 ├── Imagenes/
+
 │ ├── 2023/
+
 │ ├── foto.png
+
 
 ## ▶️ Uso
 1. Coloca tus archivos en la carpeta `archivos_desordenados/`.
