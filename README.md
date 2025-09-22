@@ -14,6 +14,7 @@ Este proyecto es un **script de automatización** en Python que organiza archivo
 ## 📂 Ejemplo de resultado
 
 Carpeta_Organizada/
+
 ├── Documentos/
 
 │ ├── 2024/
